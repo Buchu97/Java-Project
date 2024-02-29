@@ -2,7 +2,8 @@
 
 ## Introduction
 
-This Java application exemplifies sophisticated Object-Oriented Programming (OOP) principles and design patterns, focusing on an inventory system for game development. It demonstrates the implementation of various design patterns including Strategy, Composite, Singleton, and Observer to address complex design challenges effectively.
+This Java Game Inventory System is a comprehensive application designed to demonstrate an in-depth understanding of Java's Object-Oriented Programming (OOP) principles and design patterns. It showcases how to develop a medium-sized application with features like inventory management, item crafting, and flexible search functionality. The project emphasizes the use of inheritance, encapsulation, polymorphism, and design patterns to create a scalable and robust inventory system for games.
+
 
 ## Features
 
